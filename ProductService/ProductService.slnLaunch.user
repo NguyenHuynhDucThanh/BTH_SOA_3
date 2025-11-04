@@ -4,15 +4,23 @@
     "Projects": [
       {
         "Path": "ProductService\\ProductService.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "http"
       },
       {
         "Path": "..\\AuthService\\AuthService\\AuthService.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "http"
       },
       {
         "Path": "..\\EcommerceClientUI\\EcommerceClientUI\\EcommerceClientUI.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "..\\OrderService\\OrderService\\OrderService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
       }
     ]
   }

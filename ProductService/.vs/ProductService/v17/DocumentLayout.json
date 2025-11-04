@@ -3,13 +3,6 @@
   "WorkspaceRootPath": "D:\\VisualStudio\\SOA\\ProductService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ACB90B0-DD4D-30EF-2C6F-4CABA6697500}|..\\EcommerceClientUI\\EcommerceClientUI\\EcommerceClientUI.csproj|d:\\visualstudio\\soa\\ecommerceclientui\\ecommerceclientui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|d:\\visualstudio\\soa\\productservice\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|d:\\visualstudio\\soa\\productservice\\productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|solutionrelative:productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -20,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|d:\\visualstudio\\soa\\productservice\\productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|d:\\visualstudio\\soa\\productservice\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C14EE7-67D1-4017-AF4C-572A94477F2E}|ProductService\\ProductService.csproj|d:\\visualstudio\\soa\\productservice\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,32 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VisualStudio\\SOA\\EcommerceClientUI\\EcommerceClientUI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\EcommerceClientUI\\EcommerceClientUI\\Program.cs",
-              "ToolTip": "D:\\VisualStudio\\SOA\\EcommerceClientUI\\EcommerceClientUI\\Program.cs",
-              "RelativeToolTip": "..\\EcommerceClientUI\\EcommerceClientUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T09:03:03.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductService\\Properties\\launchSettings.json",
               "ToolTip": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\Properties\\launchSettings.json",
               "RelativeToolTip": "ProductService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-11T10:47:34.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProductService.csproj",
               "DocumentMoniker": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\ProductService.csproj",
               "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
@@ -83,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductsController.cs",
@@ -95,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProductDbContext.cs",
               "DocumentMoniker": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\Data\\ProductDbContext.cs",
               "RelativeDocumentMoniker": "ProductService\\Data\\ProductDbContext.cs",
@@ -107,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductService\\Models\\Product.cs",
@@ -119,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\Program.cs",
               "RelativeDocumentMoniker": "ProductService\\Program.cs",
@@ -131,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\VisualStudio\\SOA\\ProductService\\ProductService\\appsettings.json",
               "RelativeDocumentMoniker": "ProductService\\appsettings.json",
@@ -139,8 +123,7 @@
               "RelativeToolTip": "ProductService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-10T00:39:21.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T00:39:21.644Z"
             }
           ]
         }
